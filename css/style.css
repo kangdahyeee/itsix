@@ -249,7 +249,7 @@ footer p a:last-child { color: #eb150a; }
 .redrightside h2.contact {font-size: 40px; } 
 
 #redcarpet .rightside ul {top: 30%;}
- #redcarpet .rightside ul li a img {width: 50%;}
+ #redcarpet .rightside ul li a img {width: 60%;}
 #redcarpet .rightside ul li a strong {font-size: 17px;}
 
  .port_cover ul li { width: calc(50% - 10px); /* 2단 설정, 각 마진값 */}
