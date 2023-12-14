@@ -247,6 +247,7 @@ footer p a:last-child { color: #eb150a; }
 .cover h2.pf,
 
 .redrightside h2.contact {font-size: 40px; } 
+ #wrap header ul.m_menu li a {font-size: 25px;}
 
 #redcarpet .rightside ul {top: 30%;}
  #redcarpet .rightside ul li a img {width: 60%;}
