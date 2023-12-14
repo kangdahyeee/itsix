@@ -249,7 +249,7 @@ footer p a:last-child { color: #eb150a; }
 .redrightside h2.contact {font-size: 40px; } 
 #wrap header ul.m_menu li:nth-child(1),
 #wrap header ul.m_menu li:nth-child(2),
-#wrap header ul.m_menu li:nth-child(3) { font-size: 90%; }
+#wrap header ul.m_menu li:nth-child(3) { font-size: 20px; }
 
 #redcarpet .rightside ul {top: 30%;}
  #redcarpet .rightside ul li a img {width: 70%;}
